@@ -1,0 +1,7 @@
+hello there
+
+"browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  },
